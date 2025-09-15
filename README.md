@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi I'm Emmanuel,
+I'm currently working with React Native(Expo). I'm learning node.js/express.js to get a good grasp of backend dev.
+Hit me up about any project related to React, React Native or nodejs.
 
 <!--
 **Opesco12/Opesco12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
