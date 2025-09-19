@@ -1,5 +1,5 @@
 ## Hi I'm Emmanuel,
-I'm currently working with React Native(Expo). I'm learning node.js/express.js to get a good grasp of backend dev.
+I'm currently building with React Native(Expo).
 Hit me up about any project related to React, React Native or nodejs.
 
 <!--
