@@ -16,7 +16,6 @@
 
 <br/>
 
-## 🚀 Tech Stack & Tools
 
 <div align="center">
 
@@ -26,13 +25,10 @@
 
 <br/>
 
-## 🔥 My Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=opesco12&theme=tokyonight&hide_border=true&background=0D1117&stroke=0E75B6&ring=0E75B6&fire=FF6B6B&currStreakLabel=0E75B6" alt="GitHub Streak" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=opesco12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0E75B6&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=opesco12&" alt="opesco12" />
 
 </div>
 
