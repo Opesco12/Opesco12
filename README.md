@@ -1,4 +1,3 @@
-<img src="https://komarev.com/ghpvc/?username=opesco12&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRK8q6k2c9A3ynmi4/giphy.gif" width="30px">
@@ -11,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=React+Native+%7C+Expo+%7C+TypeScript;Turning+ideas+into+smooth+mobile+experiences;Always+learning.+Always+building.;Let's+build+something+amazing+together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=React+Native+%7C+Expo+%7C+TypeScript;Building+smooth+mobile+experiences!;" alt="Typing SVG" />
 </div>
 
 <br/>
